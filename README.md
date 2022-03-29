@@ -1,5 +1,11 @@
-### Hi there 👋
+<div style="display: flex; align-items: center>
+<img src="https://avatars.githubusercontent.com/u/63481821?s=400&u=c3af0f4689933e783159263f3c7f8b99fb5909f6&v=4" width="135px" height="150px" style="border-radius:50%" >
+<div>
+  <h3>Hi, it's me! 👋</h3>
 
+Hi, I'm Neto and I'm a front end developer, I'm from Brazil, most of time using React Js, Vue Js or Vanilla Js to make my things, and for now trying to improve myself and my skills (you know, the hard and soft).
+</div>
+</div>
 <!--
 **netosouza22/netosouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
