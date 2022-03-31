@@ -9,11 +9,11 @@ Most part of time I'm using frontend technologies, I really like to create somet
 
 </div>
 <div>
-<h3>My Stats</h2>
+ <h2 >🛠️ My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netosouza22&layout=compact&theme=vision-friendly-dark">
 <div>
  <div>
-                                                                                                                               <h3>Where Am I?</h3>
+                                                                                                                               <h2>⚓Where Am I?</h2>
                                                                                                                                <div align="center"><a href="https://www.linkedin.com/in/netosousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
                                                                                                                                <a href="netosouzacp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
                                                                                                                                </div>
